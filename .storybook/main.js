@@ -8,6 +8,7 @@ module.exports = {
       name: '@storybook/addon-react-native-web',
       options: {
         modulesToTranspile: [
+          '@bang88/react-native-ultimate-listview',
           '@ant-design/react-native',
           '@react-native-camera-roll/camera-roll', 
           '@react-native-picker/picker',
